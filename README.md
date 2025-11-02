@@ -64,3 +64,16 @@ Developed a complete event management system with:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/mahima468/Event-Management-System.git
+
+## 📸 Screenshots
+
+### admin
+event mana.png
+
+### Event Creation Page
+event.png
+
+### Registration Page
+event reg.png
+
+
